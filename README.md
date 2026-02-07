@@ -12,7 +12,7 @@ Um repositório criado para salvar meus códigos do BeeCrowd
 - [ ] **Paradigmas**
 - [ ] **Grafos**
 - [ ] **Geometria Computacional**
-- [ ] **SQL**
+- [X] **SQL**
 
 ### Fazer todas as questões da categoria **Iniciante** em todas as linguagens
 - [ ] C#
@@ -40,7 +40,7 @@ Um repositório criado para salvar meus códigos do BeeCrowd
 - [ ] TypeScript
 
 ### Extras
-- [ ] Resolver todas as questões de **SQL**
+- [X] Resolver todas as questões de **SQL**
 - [ ] Resolver todas as questões possíveis em **Bloco**
 
 ## Links
